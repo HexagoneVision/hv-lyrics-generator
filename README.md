@@ -1,3 +1,9 @@
+<div align="center">
+    <a href="https://github.com/HexagoneVision/hv-lyrics-generator/releases"><img src="https://img.shields.io/github/v/release/HexagoneVision/hv-lyrics-generator?label=lastest%20release&color=blue" alt="Latest release" /></a>
+    <a href="https://github.com/HexagoneVision/hv-lyrics-generator/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HexagoneVision/hv-lyrics-generator?label=license&color=white" alt="License" /></a>
+    <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-%3E%3D3.8-darkred?logo=python" alt="Python version" /></a>
+</div>
+
 # HV Lyrics Generator
 
 **HV Lyrics Generator** is a Python tool to convert `.slrc` (segmented lyrics) files into LuaU scripts compatible with Roblox. This allows you to generate timed lyrics for songs in Roblox games or experiences.
